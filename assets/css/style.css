@@ -1,0 +1,14 @@
+body {
+    background: url("../images/SoulCave01-1920x1080-539c0a0852dd62ee1f0c2811f57cb91e.png");
+    background-size: 100%;
+}
+
+.crystal {
+    float: left;
+    width: 25%;
+   
+}
+
+p {
+    color: white;
+}
